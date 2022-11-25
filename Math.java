@@ -2,6 +2,17 @@ public class Math {
 <<<<<<< HEAD
 
     /*
+    Developer: Userhumu Prince Ireye
+     University ID: 220293349
+     Function: This function takes two integers as input, multiplies both numbers and returns an output
+     */
+    public int MultiT(int x, int y){
+        int z;
+        z = x * y;
+        return z;
+    }
+
+    /*
     Developer : Abhiram
     Uni ID : 220280464
     Function : Calculate Modulus of two number
