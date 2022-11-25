@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Math {
@@ -74,3 +75,8 @@ public class Math {
     }
 }
 }
+=======
+public class Math {
+    
+}
+>>>>>>> 512dfd03ab468951211afd0cd336917804a3e76b
