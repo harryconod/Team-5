@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+/*
+   Developer: Suraj Kumar Malayudacherevil Ravi
+    University ID: 220306834
+    Function: Power of two integers
+    */
+=======
+<<<<<<< HEAD
 import java.util.Scanner;
 
 
@@ -86,7 +93,15 @@ public class Math {
 }
 }
 =======
+>>>>>>> ced766b8dab3f00ff60ff9350e12a7e975e50fee
 public class Math {
-    
+    /*
+            Developer: Suraj Kumar Malayudacherevil Ravi
+            University ID: 220306834
+            Function: Power of two integers
+            */
+    public static int power(int x, int y){
+        return = x^y;
+        }
 }
 >>>>>>> 512dfd03ab468951211afd0cd336917804a3e76b
